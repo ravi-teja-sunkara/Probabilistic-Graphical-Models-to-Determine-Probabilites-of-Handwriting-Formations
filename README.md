@@ -12,6 +12,9 @@ Considered letter pair __th__ image dataset as it is the most commonly encounter
   * Computation time for inference using Bayesian Network: 0.045
   * Computation time for inference using Markov Network: 0.034
   
+### Libraries Used in Python
+pgmpy, numpy, pandas, networkx, matplotlib 
+  
 ### Bayesian Model Graphs
 * Bayesian Graph of best model for 'th' image dataset.
 
