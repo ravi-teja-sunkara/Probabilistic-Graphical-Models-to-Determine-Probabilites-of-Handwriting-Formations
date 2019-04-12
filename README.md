@@ -13,8 +13,8 @@ Considered letter pair __th__ image dataset as it is the most commonly encounter
   * Computation time for inference using Markov Network: 0.034
   
 ### Bayesian Model Graphs
-Bayesian Graph of best model for 'th' image dataset.
+<p> Bayesian Graph of best model for 'th' image dataset. </p>
 ![th dataset bayesian graph](https://github.com/ravi-teja-sunkara/Probabilistic-Graphical-Models-to-Determine-Probabilites-of-Handwriting-Formations/blob/master/Graphs/'th'%20bayesian%20model.png)
 
-Bayesian Graph of best model for 'and' image dataset.
+<p> Bayesian Graph of best model for 'and' image dataset. </p>
 ![and dataset bayesian graph](https://github.com/ravi-teja-sunkara/Probabilistic-Graphical-Models-to-Determine-Probabilites-of-Handwriting-Formations/blob/master/Graphs/'and'%20bayesian%20model.png)
